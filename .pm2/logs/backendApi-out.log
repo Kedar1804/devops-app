@@ -1,0 +1,27 @@
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+Backend running on port 3000
+::1 - - [21/Apr/2026:08:54:00 +0000] "GET / HTTP/1.1" 200 20
+::ffff:152.58.31.81 - - [21/Apr/2026:08:54:32 +0000] "GET / HTTP/1.1" 200 20
+::ffff:152.58.31.81 - - [21/Apr/2026:08:54:32 +0000] "GET /favicon.ico HTTP/1.1" 404 150
+::ffff:152.58.31.81 - - [21/Apr/2026:08:55:18 +0000] "GET /books HTTP/1.1" 200 528
+::ffff:152.58.31.158 - - [21/Apr/2026:11:16:50 +0000] "GET /books HTTP/1.1" 200 528
+::ffff:152.58.31.158 - - [21/Apr/2026:11:17:35 +0000] "POST /books HTTP/1.1" 200 107
+::ffff:152.58.31.158 - - [21/Apr/2026:11:17:35 +0000] "GET /books HTTP/1.1" 200 604
+::ffff:152.58.31.158 - - [21/Apr/2026:11:18:18 +0000] "GET /books HTTP/1.1" 304 -
+::ffff:152.58.31.158 - - [21/Apr/2026:11:19:29 +0000] "GET /books HTTP/1.1" 304 -
+::ffff:152.58.31.158 - - [21/Apr/2026:11:20:25 +0000] "GET /books HTTP/1.1" 200 604
